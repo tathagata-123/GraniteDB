@@ -1,0 +1,11 @@
+build/
+cmake-build-*/
+.vscode/
+.DS_Store
+*.o
+*.a
+*.so
+*.dylib
+*.out
+*.log
+/tmp/
